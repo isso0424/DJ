@@ -5,7 +5,7 @@ from selenium.webdriver import Chrome, ChromeOptions
 import youtube_dl
 import os
 import asyncio
-TOKEN = "NTcyODU3ODc2MzM5NDkwODI5.XMiZjQ.4a1iHpZzcHlTMITMLuBKUiOi2MY"
+TOKEN = ""
 youtube_url = "https://www.youtube.com/?gl=JP"
 discord_voice_channel_id = ""
 voice = None
